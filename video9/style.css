@@ -1,0 +1,16 @@
+.red{
+    color:brown
+}
+.bg-yellow
+{
+    background-color: black;
+}
+/* . for classes and # for ids */
+#seconddiv
+{
+    background-color: aquamarine;
+}
+#firstdiv
+{
+    color: blue;
+}
