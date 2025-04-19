@@ -1,0 +1,15 @@
+{
+  "name": "video86",
+  "version": "1.0.0",
+  "description": "npm install --global nodemon it is used to install nodemon package\r for the whole computer not for this project alone",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
