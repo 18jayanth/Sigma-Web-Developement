@@ -1,0 +1,15 @@
+{
+  "name": "video88",
+  "version": "1.0.0",
+  "description": "With Node Js we can send text and html to Frontend but we cannot send static files, we should implement security from scratch by ourselves,\r we should  write custom get,post requests,to avoid that we use express js\r framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
