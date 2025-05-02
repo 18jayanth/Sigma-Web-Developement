@@ -1,0 +1,24 @@
+
+.btn{
+  border-radius: 10px;
+  margin-left: 50px;;
+  background-color: aqua;
+}
+.top-left{
+  padding: 0px;
+  margin:0px;
+}
+.top-right{
+  padding: 0px;
+  margin-left:1000px;
+  margin-bottom: 200px;
+}
+.bottom-left{
+  padding: 0px;
+  
+}
+.bottom-right{
+  padding: 0px;
+  margin-left:1000px;
+  
+}
